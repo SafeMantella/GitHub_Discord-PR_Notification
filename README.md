@@ -1,4 +1,4 @@
-# GitHub_Discord-PR_Notification
+# GitHub+Discord - PR Notification
 # Monitoramento de Pull Requests no GitHub e Notificação no Discord
 
 Este script Python monitora um repositório GitHub em busca de novos Pull Requests (PRs) e envia notificações para um canal do Discord utilizando Webhooks.
